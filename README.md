@@ -8,7 +8,7 @@ this is a repository for spiking into angular 2, kendo, and visualization  --war
 ### Installation
 ```bash
 # Clone this repo (or your fork).
-git clone https://github.com/technicalmedia.a2spikes.git
+git clone https://github.com/technicalmedia/a2spikes.git
 
 # Install all the the dev dependencies, such as Karma, Gulp, etc.
 npm install
